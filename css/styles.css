@@ -51,7 +51,7 @@
 
 .key {
     display: inline-block;
-    border: 3px;
+    border-radius: 3px;
     margin: 5px;
     padding: 7px 10px;
     background-color: snow;
