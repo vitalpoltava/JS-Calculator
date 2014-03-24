@@ -1,4 +1,4 @@
 JS-Calculator
 =============
 
-Simple JavaScript Calculator (no libs)
+Simple JavaScript Calculator (NO LIBS/Observer pattern)
